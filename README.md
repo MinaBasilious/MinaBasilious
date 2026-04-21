@@ -40,9 +40,9 @@ Built with Hugo · MathJax · TikZJax
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MinaBasilious&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=c4b5fd&icon_color=6366f1&hide=contribs&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MinaBasilious&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&hide=contribs" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaBasilious&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=c4b5fd&icon_color=6366f1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaBasilious&layout=compact&hide_border=true&theme=github_dark" height="160"/>
 
 </div>
 
