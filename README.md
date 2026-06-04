@@ -35,19 +35,19 @@ Built with Hugo · MathJax · TikZJax
 *Work in progress*
 
 ---
-
+<!--
 ## ✦ GitHub Stats
 
-<div align="center">
+ <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MinaBasilious&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&hide=contribs" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaBasilious&layout=compact&hide_border=true&theme=github_dark" height="160"/>
 
-</div>
+</div> 
 
----
-
+--- 
+-->
 <div align="center">
 
 $$\Huge\underset{\sim}{\mathfrak{JI}}$$
