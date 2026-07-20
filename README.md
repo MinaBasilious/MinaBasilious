@@ -19,7 +19,7 @@ $$\large \prod_{n \geq 2}\exp \left (\frac{\zeta(n)}{2^{n-1}n} \right ) = e^{-\g
 
 ## ✦ About
 
-I'm a second-year math student who sometimes likes to do math art.
+I'm a thrid-year math student who sometimes likes to do math art.
 
 Currently exploring:  · Lean 4 formal verification · 
 
