@@ -12,7 +12,7 @@ $$\large \prod_{n \geq 2}\exp \left (\frac{\zeta(n)}{2^{n-1}n} \right ) = e^{-\g
 
 [![math-gallery](https://img.shields.io/badge/✦_math--gallery-live-8b5cf6?style=flat-square&labelColor=1a1a2e)](https://minabasilious.github.io/math-gallery/)
 [![GitHub](https://img.shields.io/badge/GitHub-MinaBasilious-6366f1?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/MinaBasilious)
-
+[![Website](https://img.shields.io/badge/✦_website-live-ec4899?style=flat-square&labelColor=1a1a2e)](https://minabasilious.github.io/)
 </div>
 
 ---
